@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<inspections version="1.0" is_locked="false">
+  <option name="myName" value="Default" />
+  <option name="myLocal" value="true" />
+  <inspection_tool class="AndroidLintAdapterViewChildren" enabled="true" level="PROMINENT ERROR" enabled_by_default="true" />
+  <inspection_tool class="AssignmentToMethodParameter" enabled="true" level="PROMINENT ERROR" enabled_by_default="true">
+    <option name="ignoreTransformationOfOriginalParameter" value="false" />
+  </inspection_tool>
+  <inspection_tool class="ChannelResource" enabled="true" level="PROMINENT ERROR" enabled_by_default="true">
+    <option name="insideTryAllowed" value="false" />
+  </inspection_tool>
+  <inspection_tool class="CheckStyle-IDEA" enabled="false" level="PROMINENT WARNING" enabled_by_default="false" />
+  <inspection_tool class="ConfusingElse" enabled="true" level="PROMINENT WARNING" enabled_by_default="true">
+    <option name="reportWhenNoStatementFollow" value="true" />
+  </inspection_tool>
+  <inspection_tool class="ConstantConditions" enabled="true" level="PROMINENT ERROR" enabled_by_default="true">
+    <option name="SUGGEST_NULLABLE_ANNOTATIONS" value="false" />
+    <option name="DONT_REPORT_TRUE_ASSERT_STATEMENTS" value="false" />
+  </inspection_tool>
+  <inspection_tool class="Convert2Diamond" enabled="true" level="PROMINENT WARNING" enabled_by_default="true" />
+  <inspection_tool class="EmptyCatchBlock" enabled="true" level="PROMINENT ERROR" enabled_by_default="true">
+    <option name="m_includeComments" value="true" />
+    <option name="m_ignoreTestCases" value="true" />
+    <option name="m_ignoreIgnoreParameter" value="true" />
+  </inspection_tool>
+  <inspection_tool class="EmptyCatchBlockJS" enabled="true" level="PROMINENT ERROR" enabled_by_default="true" />
+  <inspection_tool class="EmptyFinallyBlock" enabled="true" level="PROMINENT ERROR" enabled_by_default="true" />
+  <inspection_tool class="EmptyFinallyBlockJS" enabled="true" level="PROMINENT ERROR" enabled_by_default="true" />
+  <inspection_tool class="EmptyStatementBody" enabled="true" level="PROMINENT ERROR" enabled_by_default="true">
+    <option name="m_reportEmptyBlocks" value="true" />
+  </inspection_tool>
+  <inspection_tool class="EmptySynchronizedStatement" enabled="true" level="PROMINENT ERROR" enabled_by_default="true" />
+  <inspection_tool class="EmptyTryBlock" enabled="true" level="PROMINENT ERROR" enabled_by_default="true" />
+  <inspection_tool class="EmptyTryBlockJS" enabled="true" level="PROMINENT ERROR" enabled_by_default="true" />
+  <inspection_tool class="EnumSwitchStatementWhichMissesCases" enabled="true" level="PROMINENT WARNING" enabled_by_default="true">
+    <option name="ignoreSwitchStatementsWithDefault" value="true" />
+  </inspection_tool>
+  <inspection_tool class="ExtendsAnnotation" enabled="true" level="PROMINENT WARNING" enabled_by_default="true" />
+  <inspection_tool class="FinallyBlockCannotCompleteNormally" enabled="true" level="PROMINENT WARNING" enabled_by_default="true" />
+  <inspection_tool class="GroovyEmptySyncBlock" enabled="true" level="PROMINENT ERROR" enabled_by_default="true" />
+  <inspection_tool class="IOResource" enabled="true" level="PROMINENT ERROR" enabled_by_default="true">
+    <option name="ignoredTypesString" value="java.io.ByteArrayOutputStream,java.io.ByteArrayInputStream,java.io.StringBufferInputStream,java.io.CharArrayWriter,java.io.CharArrayReader,java.io.StringWriter,java.io.StringReader" />
+    <option name="insideTryAllowed" value="false" />
+  </inspection_tool>
+  <inspection_tool class="ImplicitArrayToString" enabled="true" level="PROMINENT WARNING" enabled_by_default="true" />
+  <inspection_tool class="LocalCanBeFinal" enabled="true" level="PROMINENT ERROR" enabled_by_default="true">
+    <option name="REPORT_VARIABLES" value="true" />
+    <option name="REPORT_PARAMETERS" value="true" />
+  </inspection_tool>
+  <inspection_tool class="MethodNameSameAsClassName" enabled="true" level="PROMINENT ERROR" enabled_by_default="true" />
+  <inspection_tool class="MethodOverridesPackageLocalMethod" enabled="true" level="PROMINENT WARNING" enabled_by_default="true" />
+  <inspection_tool class="MissingDeprecatedAnnotation" enabled="true" level="PROMINENT ERROR" enabled_by_default="true" />
+  <inspection_tool class="MissingOverrideAnnotation" enabled="true" level="PROMINENT WARNING" enabled_by_default="true">
+    <option name="ignoreObjectMethods" value="true" />
+    <option name="ignoreAnonymousClassMethods" value="false" />
+  </inspection_tool>
+  <inspection_tool class="RedundantCast" enabled="true" level="PROMINENT ERROR" enabled_by_default="true" />
+  <inspection_tool class="RedundantImplements" enabled="true" level="PROMINENT WARNING" enabled_by_default="true">
+    <option name="ignoreSerializable" value="false" />
+    <option name="ignoreCloneable" value="false" />
+  </inspection_tool>
+  <inspection_tool class="ResultOfObjectAllocationIgnored" enabled="true" level="PROMINENT ERROR" enabled_by_default="true" />
+  <inspection_tool class="SerializableHasSerialVersionUIDField" enabled="true" level="PROMINENT WARNING" enabled_by_default="true">
+    <option name="ignoreAnonymousInnerClasses" value="false" />
+    <option name="superClassString" value="" />
+  </inspection_tool>
+  <inspection_tool class="SillyAssignment" enabled="true" level="PROMINENT ERROR" enabled_by_default="true" />
+  <inspection_tool class="SocketResource" enabled="true" level="WARNING" enabled_by_default="true">
+    <option name="insideTryAllowed" value="false" />
+  </inspection_tool>
+  <inspection_tool class="SwitchStatementWithNoDefaultBranchJS" enabled="true" level="PROMINENT WARNING" enabled_by_default="true" />
+  <inspection_tool class="SwitchStatementsWithoutDefault" enabled="true" level="PROMINENT WARNING" enabled_by_default="true">
+    <option name="m_ignoreFullyCoveredEnums" value="false" />
+  </inspection_tool>
+  <inspection_tool class="TooBroadCatch" enabled="true" level="PROMINENT ERROR" enabled_by_default="true">
+    <option name="onlyWarnOnRootExceptions" value="false" />
+    <option name="ignoreInTestCode" value="false" />
+  </inspection_tool>
+  <inspection_tool class="TryFinallyCanBeTryWithResources" enabled="true" level="PROMINENT WARNING" enabled_by_default="true" />
+  <inspection_tool class="TypeParameterExtendsFinalClass" enabled="true" level="PROMINENT WARNING" enabled_by_default="true" />
+  <inspection_tool class="UNCHECKED_WARNING" enabled="true" level="PROMINENT WARNING" enabled_by_default="true" />
+  <inspection_tool class="UNUSED_IMPORT" enabled="true" level="PROMINENT WARNING" enabled_by_default="true" />
+  <inspection_tool class="UNUSED_SYMBOL" enabled="true" level="PROMINENT ERROR" enabled_by_default="true">
+    <option name="LOCAL_VARIABLE" value="true" />
+    <option name="FIELD" value="true" />
+    <option name="METHOD" value="true" />
+    <option name="CLASS" value="true" />
+    <option name="PARAMETER" value="true" />
+    <option name="REPORT_PARAMETER_FOR_PUBLIC_METHODS" value="true" />
+  </inspection_tool>
+  <inspection_tool class="UnnecessaryBoxing" enabled="true" level="PROMINENT WARNING" enabled_by_default="true" />
+  <inspection_tool class="UnnecessarySemicolon" enabled="true" level="PROMINENT ERROR" enabled_by_default="true" />
+  <inspection_tool class="UnnecessaryUnboxing" enabled="true" level="PROMINENT WARNING" enabled_by_default="true" />
+  <inspection_tool class="UnusedDeclaration" enabled="true" level="PROMINENT ERROR" enabled_by_default="true">
+    <option name="ADD_MAINS_TO_ENTRIES" value="true" />
+    <option name="ADD_APPLET_TO_ENTRIES" value="true" />
+    <option name="ADD_SERVLET_TO_ENTRIES" value="true" />
+    <option name="ADD_NONJAVA_TO_ENTRIES" value="true" />
+  </inspection_tool>
+  <inspection_tool class="UnusedImport" enabled="true" level="PROMINENT WARNING" enabled_by_default="true" />
+  <inspection_tool class="UnusedLabel" enabled="true" level="PROMINENT WARNING" enabled_by_default="true" />
+  <inspection_tool class="UnusedParameters" enabled="true" level="PROMINENT ERROR" enabled_by_default="true" />
+</inspections>
+
