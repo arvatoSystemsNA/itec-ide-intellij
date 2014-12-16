@@ -43,7 +43,7 @@
     <option name="insideTryAllowed" value="false" />
   </inspection_tool>
   <inspection_tool class="ImplicitArrayToString" enabled="true" level="PROMINENT WARNING" enabled_by_default="true" />
-  <inspection_tool class="LocalCanBeFinal" enabled="true" level="PROMINENT WARNING" enabled_by_default="true">
+  <inspection_tool class="LocalCanBeFinal" enabled="true" level="PROMINENT ERROR" enabled_by_default="true">
     <option name="REPORT_VARIABLES" value="true" />
     <option name="REPORT_PARAMETERS" value="true" />
   </inspection_tool>
